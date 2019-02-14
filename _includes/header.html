@@ -1,0 +1,20 @@
+<header class="site-header" role="banner">
+
+  <div class="wrapper">
+    {% assign default_paths = site.pages | map: "path" %}
+    {% assign page_paths = site.header_pages | default: default_paths %}
+
+    <div id="title">
+      <a class="no-deco" href="{{ '/' | relative_url }}">
+        {{ site.title | escape}}
+      </a>
+      {% if page.title %}/ {{ page.title | escape }}{% endif %}
+      <!-- <a class="no-deco" href="{{ site.url }}{{ site.baseurl }}">{{ site.title | escape }}</a> -->
+    </div>
+
+    <nav>
+
+    </nav>
+  </div>
+
+</header>

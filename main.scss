@@ -1,0 +1,121 @@
+---
+# Changing the CSS?
+---
+
+$backgroundColor: white;
+$highlightColor: rgb(23,99,177);
+$linkUnderlineAlpha: 0.5;
+
+/* @media screen { */
+.wrapper {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.border {
+  border: 1px dashed #ccc;
+}
+
+.comic {
+  max-width: 100%;
+  height: auto;
+}
+/*}
+
+@media only screen and (max-width: 568px) {
+.wrapper {
+max-width: 300px;
+margin: 0 auto;
+}
+
+img {
+max-width: 300px;
+height: auto;
+object-fit: contain;
+}
+}*/
+
+/* Force scrollbars on short main page */
+html {
+  overflow-y: scroll;
+}
+
+body {
+  background-color: $backgroundColor;
+  font-family: Helvetica, Arial, sans-serif;
+  line-height: 1.4em;
+}
+
+a {
+  color: black;
+  // background-color: rgba(255,100,100,0.25);
+  text-decoration: none;
+  box-shadow: inset 0 0.8em 0 $backgroundColor, inset 0 1.2em 0 rgba($highlightColor,$linkUnderlineAlpha);
+}
+
+nav {
+  font-size: 1.2em;
+  margin-bottom: 30px;
+}
+
+.no-deco {
+  text-decoration: none;
+  background-color: rgba(0,0,0,0);
+  box-shadow: none;
+}
+
+.smaller {
+  font-size: 0.75em;
+}
+
+ul.post-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+ul.post-list li {
+  margin-bottom: 10px;
+}
+
+#title {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  z-index: -1000;
+}
+
+// $shadows: "10px 10p 0 #ddd";
+$num_shadows: 60;
+$shadow_x: -2;
+$shadow_y: -0.5;
+$shadows: "";
+@for $i from 1 through ($num_shadows - 1) {
+  $shadows: "" + $shadows + ($i*$shadow_x) + "px " + ($i*$shadow_y) + "px 0 rgba(" + $i*2 + "," + $i*2 + "," + $i*2 + ",0.25),";
+}
+$shadows: "" + $shadows + ($num_shadows*$shadow_x) + "px " + ($num_shadows*$shadow_y) + "px 0 rgba(" + $num_shadows*2 + "," + $num_shadows*2 + "," + $num_shadows*2 + ",0.25)";
+
+#title a {
+  font-weight: bolder;
+  font-size: 2.5em;
+  color: $highlightColor;
+  text-shadow: #{$shadows};
+}
+
+#image-caption {
+  margin-top: -10px;
+}
+
+.post-nav {
+  margin-top: 20px;
+  font-size: 1em;
+  margin-bottom: 50px;
+}
+
+.game-archive-entry {
+  margin-bottom: 50px;
+}

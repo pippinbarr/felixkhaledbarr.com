@@ -1,0 +1,85 @@
+/* @media screen { */
+.wrapper {
+  max-width: 600px;
+  margin: 0 auto; }
+
+img {
+  max-width: 100%;
+  height: auto; }
+
+.border {
+  border: 1px dashed #ccc; }
+
+.comic {
+  max-width: 100%;
+  height: auto; }
+
+/*}
+
+@media only screen and (max-width: 568px) {
+.wrapper {
+max-width: 300px;
+margin: 0 auto;
+}
+
+img {
+max-width: 300px;
+height: auto;
+object-fit: contain;
+}
+}*/
+/* Force scrollbars on short main page */
+html {
+  overflow-y: scroll; }
+
+body {
+  background-color: white;
+  font-family: Helvetica, Arial, sans-serif;
+  line-height: 1.4em; }
+
+a {
+  color: black;
+  text-decoration: none;
+  box-shadow: inset 0 0.8em 0 white, inset 0 1.2em 0 rgba(23, 99, 177, 0.5); }
+
+nav {
+  font-size: 1.2em;
+  margin-bottom: 30px; }
+
+.no-deco {
+  text-decoration: none;
+  background-color: rgba(0, 0, 0, 0);
+  box-shadow: none; }
+
+.smaller {
+  font-size: 0.75em; }
+
+ul.post-list {
+  list-style: none;
+  padding: 0;
+  margin: 0; }
+
+ul.post-list li {
+  margin-bottom: 10px; }
+
+#title {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  z-index: -1000; }
+
+#title a {
+  font-weight: bolder;
+  font-size: 2.5em;
+  color: #1763b1;
+  text-shadow: -2px -0.5px 0 rgba(2,2,2,0.25),-4px -1px 0 rgba(4,4,4,0.25),-6px -1.5px 0 rgba(6,6,6,0.25),-8px -2px 0 rgba(8,8,8,0.25),-10px -2.5px 0 rgba(10,10,10,0.25),-12px -3px 0 rgba(12,12,12,0.25),-14px -3.5px 0 rgba(14,14,14,0.25),-16px -4px 0 rgba(16,16,16,0.25),-18px -4.5px 0 rgba(18,18,18,0.25),-20px -5px 0 rgba(20,20,20,0.25),-22px -5.5px 0 rgba(22,22,22,0.25),-24px -6px 0 rgba(24,24,24,0.25),-26px -6.5px 0 rgba(26,26,26,0.25),-28px -7px 0 rgba(28,28,28,0.25),-30px -7.5px 0 rgba(30,30,30,0.25),-32px -8px 0 rgba(32,32,32,0.25),-34px -8.5px 0 rgba(34,34,34,0.25),-36px -9px 0 rgba(36,36,36,0.25),-38px -9.5px 0 rgba(38,38,38,0.25),-40px -10px 0 rgba(40,40,40,0.25),-42px -10.5px 0 rgba(42,42,42,0.25),-44px -11px 0 rgba(44,44,44,0.25),-46px -11.5px 0 rgba(46,46,46,0.25),-48px -12px 0 rgba(48,48,48,0.25),-50px -12.5px 0 rgba(50,50,50,0.25),-52px -13px 0 rgba(52,52,52,0.25),-54px -13.5px 0 rgba(54,54,54,0.25),-56px -14px 0 rgba(56,56,56,0.25),-58px -14.5px 0 rgba(58,58,58,0.25),-60px -15px 0 rgba(60,60,60,0.25),-62px -15.5px 0 rgba(62,62,62,0.25),-64px -16px 0 rgba(64,64,64,0.25),-66px -16.5px 0 rgba(66,66,66,0.25),-68px -17px 0 rgba(68,68,68,0.25),-70px -17.5px 0 rgba(70,70,70,0.25),-72px -18px 0 rgba(72,72,72,0.25),-74px -18.5px 0 rgba(74,74,74,0.25),-76px -19px 0 rgba(76,76,76,0.25),-78px -19.5px 0 rgba(78,78,78,0.25),-80px -20px 0 rgba(80,80,80,0.25),-82px -20.5px 0 rgba(82,82,82,0.25),-84px -21px 0 rgba(84,84,84,0.25),-86px -21.5px 0 rgba(86,86,86,0.25),-88px -22px 0 rgba(88,88,88,0.25),-90px -22.5px 0 rgba(90,90,90,0.25),-92px -23px 0 rgba(92,92,92,0.25),-94px -23.5px 0 rgba(94,94,94,0.25),-96px -24px 0 rgba(96,96,96,0.25),-98px -24.5px 0 rgba(98,98,98,0.25),-100px -25px 0 rgba(100,100,100,0.25),-102px -25.5px 0 rgba(102,102,102,0.25),-104px -26px 0 rgba(104,104,104,0.25),-106px -26.5px 0 rgba(106,106,106,0.25),-108px -27px 0 rgba(108,108,108,0.25),-110px -27.5px 0 rgba(110,110,110,0.25),-112px -28px 0 rgba(112,112,112,0.25),-114px -28.5px 0 rgba(114,114,114,0.25),-116px -29px 0 rgba(116,116,116,0.25),-118px -29.5px 0 rgba(118,118,118,0.25),-120px -30px 0 rgba(120,120,120,0.25); }
+
+#image-caption {
+  margin-top: -10px; }
+
+.post-nav {
+  margin-top: 20px;
+  font-size: 1em;
+  margin-bottom: 50px; }
+
+.game-archive-entry {
+  margin-bottom: 50px; }
