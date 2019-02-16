@@ -2,4 +2,10 @@
 layout: default
 ---
 
-{{ content }}
+{% for post in page.posts %}
+
+<div class="diary-entry">
+<a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+</div>
+
+{% endfor %}
