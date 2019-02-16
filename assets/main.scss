@@ -6,6 +6,16 @@ $backgroundColor: white;
 $highlightColor: rgb(0,0,0);
 $linkUnderlineAlpha: 0.5;
 
+#title {
+  font-family: Helvetica, sans-serif;
+  font-size: 2em;
+}
+
+#life {
+  background-color: black;
+  color: yellow;
+}
+
 /* @media screen { */
 .wrapper {
   max-width: 600px;
