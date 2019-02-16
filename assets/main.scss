@@ -6,10 +6,20 @@ $backgroundColor: white;
 $highlightColor: rgb(0,0,0);
 $linkUnderlineAlpha: 0.5;
 
-#life-title {
+#title {
   font-family: Helvetica, sans-serif;
-  font-size: 2em;
+  margin-top: 50px;
+  margin-bottom: 20px;
+  z-index: -1000;
+  font-weight: bolder;
+  font-size: 3em;
+  line-height: 1em;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+  -webkit-text-fill-color: rgba(0,0,0,0);
+  // color: $highlightColor;
 }
+
 
 #life {
   background-color: black;
@@ -92,22 +102,7 @@ ul.post-list li {
   margin-bottom: 10px;
 }
 
-#title {
 
-}
-
-#title {
-  margin-top: 50px;
-  margin-bottom: 20px;
-  z-index: -1000;
-  font-weight: bolder;
-  font-size: 3em;
-  line-height: 1em;
-  -webkit-text-stroke-width: 1px;
-  -webkit-text-stroke-color: black;
-  -webkit-text-fill-color: rgba(0,0,0,0);
-  // color: $highlightColor;
-}
 
 #image-caption {
   margin-top: -10px;
