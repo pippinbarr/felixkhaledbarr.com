@@ -20,4 +20,4 @@ We're feeling very good about having him out here with us and so far it's been a
 
 He's called Felix Khaled Barr.
 
-![](/images/01-the-new-guy.png)
+![](/assets/images/01-the-new-guy.png)
