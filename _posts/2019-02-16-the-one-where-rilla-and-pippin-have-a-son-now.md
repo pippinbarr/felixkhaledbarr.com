@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "The New Guy"
+title:  "The one where Rilla and Pippin have a son now"
 date:   2019-02-16 10:00:00
 ---
-___In which: Pippin and Rilla have a son now!___
 
 Our son was born on Sunday, 10 February 2019, early in the morning. He came as a surprise, four weeks early. In fact, we were at a programming demo night when Rilla's waters broke just before she was due to present one of her research projects. We headed home, called the hospital, were told to come in, went in, found out he was in breech, went through an unplanned c-section, and found ourselves sitting in the recovery area with this new, tiny person.
 
