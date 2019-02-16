@@ -2,10 +2,14 @@
 layout: default
 ---
 
+<p>
+  If you want to be emailed when this website is updated, please subscribe to the <a href="https://tinyletter.com/felixkhaledbarr">Felix Khaled Barr Newsletter</a>.
+</p>
+
 {% for post in page.posts %}
 
 <div class="diary-entry">
-<a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+  <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
 </div>
 
 {% endfor %}
