@@ -9,7 +9,7 @@ layout: default
 {% for post in site.posts %}
 
 <div class="diary-entry">
-  {{ post.date }} <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+  {{ post.date | date_to_long_string }} <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
 </div>
 
 {% endfor %}
