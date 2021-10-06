@@ -16,4 +16,4 @@ It is remarkable how much Felix has grown and unfolded into his own personhood d
 
 I will be in and out of town the next few weeks, fingers crossed, so expect a few more updates but don’t hold your breath. 
 
-![](03-20211004_135947-the-one-where-he-is-.gif))
+![](/assets/images/03-20211004_135947-the-one-where-he-is-.gif)
