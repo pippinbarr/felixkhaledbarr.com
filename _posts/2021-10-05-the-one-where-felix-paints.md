@@ -26,5 +26,7 @@ There were many edible and incredible nourishing moments for today. First and fo
 
 Felix is a real natural with the watercolour paints and rather than just going off-script decided to go off the page. Let us hope it is washable!  
 
+Pictured below, the co-founders of this <3*-year-old start-up
 ![](/assets/images/04-20211005_055119-the-one-where-they-stand-on-steps.gif)
 
+*less than three but also a heart
