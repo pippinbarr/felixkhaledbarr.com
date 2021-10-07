@@ -16,7 +16,7 @@ fkb keeps growing taller!*
 
 ![](/assets/images/04-20211005_144036-the-one-where-felix-paints.gif)
 
-The days fly by when you are having fun. Both Rilla aapa and me are on sabbatical and the days are packed. The clock is Felix, more than once I have remarked, *“We are on Felix time now”*. There is something beautifully fortunate about how synchronized Pippin bhai and Rilla aapa seem and it feels very nourishing to be here in place and time and company (including especially Kasper the cat, **child #1**).
+The days fly by when you are having fun. Both Rilla aapa and me are on sabbatical and the days are packed. The clock is Felix, more than once I have remarked, *“We are on Felix time now”*. There is something beautifully fortunate about how synchronized Pippin bhai and Rilla aapa seem (read: are) and it feels very nourishing to be here in place and time and company (including especially Kasper the cat, **child #1**).
 
 Felix walked down the stairs in the morning before daycare asking, *“Where is auntie?”*. While it is too early to say that he is channeling my parents in his concerns about my eligible bachelor status, the case is mounting for him being in cahoots with them. 
 
