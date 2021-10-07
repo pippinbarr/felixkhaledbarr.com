@@ -20,7 +20,7 @@ The days fly by when you are having fun. Both Rilla aapa and me are on sabbatica
 
 Felix walked down the stairs in the morning before daycare asking, *“Where is auntie?”*. While it is too early to say that he is channeling my parents in his concerns about my eligible bachelor status, the case is mounting for him being in cahoots with them. 
 
-There were many edible and incredible nourishing moments for today. First and foremost: Rilla aapa’s egg curry and khichdi, both of which were quite a bit different (yet similar) to the way my mama prepares the same dishes. 
+There were many edible and incredible nourishing moments for today. First and foremost: Rilla aapa’s unda^egg curry and khichdi, both of which were quite a bit different (yet similar) to the way my mama prepares the same dishes. 
 
 ![](/assets/images/04-20211005_154312(0)-the-one-where-i-join-blue-man-group.jpg)
 
