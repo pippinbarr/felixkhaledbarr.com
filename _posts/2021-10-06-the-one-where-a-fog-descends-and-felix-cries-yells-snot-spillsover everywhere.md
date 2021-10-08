@@ -28,13 +28,14 @@ Better that than raining frogs?
 
 ![](/assets/images/05-20211006_051721-the-one-where-we-keep-bangla-in-our-hearts-and-minds.jpg)
 
-What is the language of dreams? And what are the languages your grandparents read, write, and speak that you do not? Felix, listen kid. শোন শোন শোন. I am somewhere between one and three languages less than what my grandparents had and perhaps this is something we can work on? 
+What is the language of dreams? And what are the languages your grandparents read, write, and speak that you do not? Felix, listen kiddo who is not a button. শোন শোন শোন. I am somewhere between one and three languages less than what my grandparents had and perhaps this is something we can work on? 
 
 Revisiting Bengali and learning it with my ভাগ্নে. It helps that Hindi is so similar to it. Good thing we are not in a rush.
 
 We painted more, of course we did, more on this soon (soon = later). 
 
 yours sincerely, 
+
 maama asad
 
 ![](/assets/images/05-20211006_055532-the-one-where-we-are-all-glad-these-two-met-and-make-it-game.gif)
