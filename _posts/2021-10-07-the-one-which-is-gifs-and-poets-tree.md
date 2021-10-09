@@ -6,7 +6,7 @@ date:   2021-10-07 05:16:26
 
 ![](/assets/images/06-20211007_052804-the-one-that-is-a-continuation-of-a-series.gif)
 
-A picture is worth a thousand words (not accounting for inflation) so what about GIFs? And Poetry?
+A picture is worth a thousand words (not accounting for inflation) so what about GIFs? And Poetry? How about a collection? Below is a smorgasbord of poems that are deliberately placed around these images, this week, this time, place, space, _ _ _ _ _ _ . Clickthrough for the source and attribution. Careful now, slippery slope this web log! 
 
 [The 2 f’s
 in giraffe
@@ -82,6 +82,8 @@ for what is needed in misfortune is a little order and beauty.](https://explore.
 and i beg what i love and
 i leave to forgive me](https://explore.chairsandtables.org/post/190418215248/i-am-running-into-a-new-year)
 
+![](/assets/images/06-20211007_140417-the-one-where-we-test-drive-the-stroller.gif)
+
 [Then it is only kindness that makes sense anymore,
 only kindness that ties your shoes
 and sends you out into the day to gaze at bread,
@@ -90,8 +92,6 @@ from the crowd of the world to say
 It is I you have been looking for,
 and then goes with you everywhere
 like a shadow or a friend.](https://explore.chairsandtables.org/post/165191892238/kindness)
-
-![](/assets/images/06-20211007_140417-the-one-where-we-test-drive-the-stroller.gif)
 
 ![](/assets/images/06-20211007_142632-the-one-where-we-bring-dad-flowers.gif)
 
@@ -105,14 +105,14 @@ but he’s not marked.
 Nowhere does his jacket say FRAGILE,
 HANDLE WITH CARE.](https://explore.chairsandtables.org/post/148202590405/shoulders)
 
+![](/assets/images/06-20211007_145626-the-one-with-the-maama-the-bhaanja-the-noodles.jpg)
+
 [Here I’ll go on saying, “I’m home!”
 while you keep saying, “Welcome back!”
 I’ll come back here again and again.
 Here let’s drink hot tea.
 Let’s sit here, you and I, and be caressed for a while
 by the cool breeze.](https://explore.chairsandtables.org/post/130808702714/a-picnic-on-the-earth)
-
-![](/assets/images/06-20211007_145626-the-one-with-the-maama-the-bhaanja-the-noodles.jpg)
 
 [and I still don’t know: am I a falcon,
 a storm, or a great song.](https://explore.chairsandtables.org/post/162650740888/widening-circles)
