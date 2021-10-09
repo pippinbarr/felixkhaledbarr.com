@@ -13,7 +13,7 @@ in giraffe
 are like
 2 giraffes
 running through
-the word giraffe]_(https://explore.chairsandtables.org/post/166131441293/the-giraffe) +ron padgett
+the word giraffe](https://explore.chairsandtables.org/post/166131441293/the-giraffe) +ron padgett
 
 ![](/assets/images/06-20211007_052249(0)-the-one-that-is-a-walk.gif)
 
@@ -117,7 +117,7 @@ by the cool breeze.](https://explore.chairsandtables.org/post/130808702714/a-pic
 >[and I still don’t know: am I a falcon,
 a storm, or a great song.](https://explore.chairsandtables.org/post/162650740888/widening-circles) +rainer maria rilke
 
-yours sincerely, 
+yours sincerely + curiously in this not knowing, 
 
 [maama asad](https://www.felixkhaledbarr.com/2021/10/04/the-one-where-maama-visits.html)
 
