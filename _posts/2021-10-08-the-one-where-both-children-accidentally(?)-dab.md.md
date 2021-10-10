@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The One Where Both Children Accidentally?) Dab"
+title:  "The One Where Both Children Accidentally(?) Dab"
 date:   2021-10-08 16:26:05
 ---
 
