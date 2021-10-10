@@ -18,7 +18,7 @@ date:   2021-10-08 16:26:05
 
 ![](/assets/images/07-20211008_153730-in-which-the-artist-needs-to-be-told-to-tell-grandparents-how-long-distance-love-extends.gif)
 
-yours sincerely + resentfully enthusiastic, 
+yours sincerely + resentfully enthusiastically, 
 
 [maama asad](https://www.felixkhaledbarr.com/2021/10/04/the-one-where-maama-visits.html)
 
