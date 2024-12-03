@@ -24,7 +24,7 @@ I don’t know how many more years we have of you willingly wanting to enjoy the
 
 I am slowly savouring Pippin’s book which (was being worked on when the majority of these web logs were written) opens with,
 
-For Felix, who can turn an IKEA sealing clip into a truck, a boot, and an alligator in the space of a minute. 
+>For Felix, who can turn an IKEA sealing clip into a truck, a boot, and an alligator in the space of a minute. 
 
 Love you kid, here’s looking at you (still kid-ly, tres much so, but less so) kid.
 
