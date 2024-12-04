@@ -33,7 +33,8 @@ Here is a photo of your co-founders and your older sibling.
 ![](/assets/images/20241125_082422.jpg)
 
 Sincerely,
-Maama doola, no we are not on a first-name basis child.
+
+Maama doola, no we are not on a first-name basis child
 
 ps. I am devastatingly sincerely already joking with your parents about the Felix film compilation when you turn 18 years old.
 pps. It would be remiss of me to not include a poem, this time by Yusuf Saadi:
